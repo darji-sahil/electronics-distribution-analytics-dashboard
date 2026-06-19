@@ -1,0 +1,23 @@
+﻿Product,Category,CostPerUnit
+Laptop Pro X,Laptop,650
+Laptop Air Lite,Laptop,520
+Gaming Laptop G15,Laptop,900
+Business Laptop B7,Laptop,700
+Wireless Mouse M1,Accessories,12
+Mechanical Keyboard K2,Accessories,35
+Gaming Keyboard GK7,Accessories,48
+27-inch Monitor,Monitor,180
+32-inch Monitor,Monitor,250
+USB-C Hub,Accessories,18
+External SSD 1TB,Storage,65
+External SSD 2TB,Storage,110
+Bluetooth Speaker,Audio,40
+Noise Cancelling Headphones,Audio,95
+Webcam HD,Accessories,28
+Webcam 4K,Accessories,65
+WiFi Router AX,Networking,85
+Graphics Card RTX,Components,600
+Graphics Card GTX,Components,350
+Smartwatch Active,Wearables,90
+Tablet Pro,Tablet,280
+Tablet Mini,Tablet,190
