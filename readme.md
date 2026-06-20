@@ -82,6 +82,10 @@ The dashboard enables users to explore key business metrics using dynamic filter
 
 ![City Analysis](Screenshots/City%20Analysis.png)
 
+### Custom Tooltip Analysis
+
+![Tooltip Analysis](Screenshots/Tooltip%20Analysis.png)
+
 
 ---
 
